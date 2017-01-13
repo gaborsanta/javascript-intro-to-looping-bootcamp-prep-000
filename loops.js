@@ -24,7 +24,7 @@ function whileLoop(i) {
     console.log(--i)
   }
 
-  return "done"
+  return "done!"
 
 }
 
